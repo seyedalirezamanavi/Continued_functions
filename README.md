@@ -21,4 +21,4 @@ The theory and implementation tutorial is in here (the language is Persian):
 Part 1: https://youtu.be/jFXar25M1nw
 
 
-Part 2: https://youtu.be/TGyOSl_KzZc
+Part 2: https://youtu.be/ZZ3rzyJF9gs
