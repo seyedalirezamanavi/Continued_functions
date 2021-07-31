@@ -22,7 +22,7 @@ function continued_exp(x, terms)
 end
 
 
-# continued exponential call section
+# continued fraction call section
 
 N = 200
 conv = 100
@@ -44,7 +44,7 @@ using Images
 ImageView.imshow(s)
 
 
-# continued fraction call section
+# continued exponential call section
 
 N = 2000
 conv = 100
